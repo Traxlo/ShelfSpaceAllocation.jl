@@ -1,6 +1,8 @@
 # ShelfSpaceAllocation
 ![](docs/src/figures/planogram.svg)
 
+This package does not contain full layout capabilities of shelf racks on the floorplan, however, it can be used as a standalone layout optimizer.
+
 [![Docs Image](https://img.shields.io/badge/docs-latest-blue.svg)](https://gamma-opt.github.io/ShelfSpaceAllocation.jl/dev/)
 ![Runtests](https://github.com/gamma-opt/ShelfSpaceAllocation.jl/workflows/Runtests/badge.svg)
 
